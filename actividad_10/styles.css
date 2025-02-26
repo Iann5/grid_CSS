@@ -1,0 +1,27 @@
+.container{
+    font-size: 40px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+.d1{
+    background-color: rgb(126, 174, 247);
+}
+.d2{
+    background-color: rgb(240, 108, 68);
+    justify-self: center;
+}
+.d3{
+    background-color: rgb(174, 240, 225);
+    align-self: self-end;
+}
+.d4{
+    background-color: rgb(255, 126, 255);
+}
+.d5{
+    background-color: rgb(157, 255, 127);
+}
