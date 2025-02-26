@@ -6,32 +6,17 @@
     grid-template-columns: 100px 100px 100px;
 }
 .d1{
-    font-size: 40px;
-    width: 100%;
     background-color: rgb(126, 174, 247);
-    display: grid;
 }
 .d2{
-    font-size: 40px;
-    width: 100%;
     background-color: rgb(240, 108, 68);
-    display: grid;
 }
 .d3{
-    font-size: 40px;
-    width: 100%;
     background-color: rgb(174, 240, 225);
-    display: grid;
 }
 .d4{
-    font-size: 40px;
-    width: 100%;
     background-color: rgb(255, 126, 255);
-    display: grid;
 }
 .d5{
-    font-size: 40px;
-    width: 100%;
     background-color: rgb(157, 255, 127);
-    display: grid;
 }
